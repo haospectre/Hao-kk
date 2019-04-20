@@ -13,7 +13,7 @@ void main()
 			check = false;
 	}
 	if(check==false)
-		cout << "n khong phai so nguyen to" << endl;
+		cout << "n khong phai so nguyen to chac chan" << endl;
 	else
 		cout << "n la so nguyen to" << endl;
 		
